@@ -1,10 +1,7 @@
 # Programa: Cuenta.py
 # Objetivo: Programa que va a permitir definir la superclase
 #           para controlar Cuentas
-# Autor: -Carolina Flores Zarraga
-#-Ivana Martinez Hernandez
-#-David Enrique Ortiz Gonzalez
-#-Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from datetime import datetime # Validación de la fecha
 from validate_email import validate_email # Validación del email
