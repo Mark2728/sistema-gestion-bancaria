@@ -1,9 +1,6 @@
 # Programa: CuentaN.py
 # Objetivo: Programa que va a permitir definir la subclase Cuentas de Débito
-# Autor: -Carolina Flores Zarraga
-#-Ivana Martinez Hernandez
-#-David Enrique Ortiz Gonzalez
-#-Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from CuentaDN import CuentaDN
 from datetime import datetime # Valída las fechas
