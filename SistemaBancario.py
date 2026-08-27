@@ -1,9 +1,6 @@
 # Programa: InstitucionBancaria.py
 # Objetivo: Programa que va a manejar la funcionalidad del sistema.
-# Autor: -Carolina Flores Zarraga
-# -Ivana Martinez Hernandez
-# -David Enrique Ortiz Gonzalez
-# -Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from Cuenta import Cuenta
 from CuentaD import CuentaD
