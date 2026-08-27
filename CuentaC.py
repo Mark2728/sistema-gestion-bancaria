@@ -1,9 +1,6 @@
 # Programa: CuentaC.py
 # Objetivo: Programa que va a permitir definir la subclase Cuentas de Crédito
-# Autor: -Carolina Flores Zarraga
-#-Ivana Martinez Hernandez
-#-David Enrique Ortiz Gonzalez
-#-Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from Cuenta import Cuenta
 from datetime import datetime # Valída las fechas
