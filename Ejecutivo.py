@@ -1,10 +1,7 @@
 # Programa: Ejecutivo.py
 # Objetivo: Programa que va a permitir definir la superclase
 #           para controlar los Ejecutivos de Cuentas
-# Autor: -Carolina Flores Zarraga
-#-Ivana Martinez Hernandez
-#-David Enrique Ortiz Gonzalez
-#-Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from datetime import datetime # Validación de la fecha
 import random
