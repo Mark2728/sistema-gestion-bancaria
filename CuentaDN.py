@@ -1,9 +1,6 @@
 # Programa: CuentaDN.py
 # Objetivo: Programa que va a permitir definir la subclase Cuentas de Nomina
-# Autor: -Carolina Flores Zarraga
-#-Ivana Martinez Hernandez
-#-David Enrique Ortiz Gonzalez
-#-Marcos Pérez Almazán
+# Autor: Marcos Pérez Almazán
 
 from Cuenta import Cuenta
 from locale import currency, setlocale, LC_MONETARY
